@@ -1,0 +1,26 @@
+jrdesktop Basic Edition is designed for education purposes, it contains only minimum requirements to establish a remote desktop, this version should helps developers to understated project's source code.
+
+This is a brief comparison between Basic and Professional Edition
+
+Features 				Basic Edition 	Professional Edition
+	Communication through RMI 		+		+		
+	Multiple Sessions 			+		+	
+	Multiple User Interfaces 		+		+		
+	Multihomed Server 			X 		+
+	Authentication 				X 		+
+	Encryption 				X 		+
+	File Transfer 				X 		+
+	Clipboard Transfer 			X 		+
+	Color Quality 				X 		+
+	Image Quality 				X 		+
+	Data Compression 			X 		+
+	Screen Functions 			X 		+
+	Control Functions 			X 		+
+	Connection Details 			X 		+
+	Remote Host Properties 			X 		+
+
+Any comments, bugs, suggestions, questions; please contact us.
+
+http://jrdesktop.sourceforge.net/
+
+pfe062008@gmail.com
